@@ -1,0 +1,13 @@
+.rovers{
+    display:flex;
+    justify-content: center;
+    align-items: top;
+    text-align: center;
+    flex-direction: row;
+    
+}
+.rover{
+    width:300px;
+  height: auto;
+  padding:2rem;
+}
